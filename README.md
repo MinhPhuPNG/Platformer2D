@@ -24,7 +24,7 @@ This repository contains the starting files and assets used throughout the lectu
 1. Clone or download this repository.
 2. Open the project using Unity Hub.
 3. Open the `Scenes` folder.
-4. Run `SampleScene` to start the project.
+4. Run `Level 1` to start the level.
 
 ---
 
@@ -35,6 +35,7 @@ This repository contains the starting files and assets used throughout the lectu
 | Move Left | A / Left Arrow |
 | Move Right | D / Right Arrow |
 | Jump | Space |
+| Reset Game | Space |
 
 ---
 
@@ -51,7 +52,4 @@ This repository contains the starting files and assets used throughout the lectu
 
 ## Assets
 
-This project uses assets from the Kenney Pixel Platformer pack.
-
-Kenney Assets:  
-https://kenney.nl/assets/category:2D?search=platformer
+Sprites were drawn by my younger siblings.
